@@ -1,0 +1,10 @@
+diff --cc hello.xml
+index 7f4a909,d324575..0000000
+--- a/hello.xml
++++ b/hello.xml
+@@@ -1,1 -1,1 +1,5 @@@
+++<<<<<<< HEAD
+ +<hello>from master</hello>
+++=======
++ <hello>from branch</hello>
+++>>>>>>> GitWork

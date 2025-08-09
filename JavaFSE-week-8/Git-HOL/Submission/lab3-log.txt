@@ -1,0 +1,6 @@
+*   48dc9a6 (HEAD -> master) lab3: merge GitNewBranch into master/main
+|\  
+| * e4336f8 (GitNewBranch) lab3: add branchfile in GitNewBranch
+|/  
+* c941d6e lab2: add .gitignore to ignore logs
+* f18bc3e lab1: add welcome.txt

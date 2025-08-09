@@ -1,0 +1,11 @@
+*   26f4f28 (HEAD -> master) lab4: resolved merge conflict in hello.xml
+|\  
+| * 3f95ff3 (GitWork) lab4: hello.xml in branch
+* | 10f947f lab4: hello.xml in master
+|/  
+*   48dc9a6 lab3: merge GitNewBranch into master/main
+|\  
+| * e4336f8 lab3: add branchfile in GitNewBranch
+|/  
+* c941d6e lab2: add .gitignore to ignore logs
+* f18bc3e lab1: add welcome.txt

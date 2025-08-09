@@ -1,0 +1,2 @@
+user.email=22102150@rmd.ac.in
+user.name=sriram150
